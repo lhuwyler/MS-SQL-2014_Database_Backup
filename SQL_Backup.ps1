@@ -40,8 +40,8 @@ $sqlserver        = "localhost"
 
 # Mail Settings
 
-$mailadress       = "hd@berufzug.ch"
-$smtpserver       = "BZEXCH01.berufzug.ch"
+$mailadress       = "yourMail@mail.com"
+$smtpserver       = "yourSMTPserver"
 
 #*************************
 # Functions
